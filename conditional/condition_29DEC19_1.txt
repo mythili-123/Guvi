@@ -1,0 +1,11 @@
+# Write a program to find maximum between two numbers.
+
+
+a=int(input("enter the a value:"))
+b=int(input("enter the b value:"))
+max=0
+if(a>b):
+ print("the maximum value is a")
+else:
+ print("the maximum value is b")
+
